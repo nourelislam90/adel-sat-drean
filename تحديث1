@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adel Sat Drean</title>
+  <style>
+    body {
+      background-color: #111;
+      color: white;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      font-family: 'Cairo', cursive;
+      font-size: 2.5em;
+      color: #00bfff;
+      margin-bottom: 10px;
+    }
+    .logo {
+      width: 250px;
+      border-radius: 15px;
+      box-shadow: 0 0 20px #00bfff;
+      margin-bottom: 20px;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #00bfff;
+      color: black;
+      padding: 15px 25px;
+      font-size: 1.2em;
+      border-radius: 10px;
+      text-decoration: none;
+      margin: 20px 0;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background-color: #0099cc;
+    }
+    .section {
+      margin-top: 40px;
+    }
+    .section h2 {
+      color: #FFD700;
+      margin-bottom: 10px;
+    }
+    .social-links a {
+      color: #00bfff;
+      text-decoration: none;
+      display: block;
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>مرحبا بكم عند <span style="color: gold;">ADEL SAT DREAN</span></h1>
+
+  <img src="https://scontent.faae1-1.fna.fbcdn.net/v/t39.30808-6/490197805_648152231427268_7539714681548622734_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE0VYwE6cfUMbT1XZO8wdmZppJVxd09D2mmklXF3T0Paa2TOMbHmAQAxWjWfIbcIHf8hTo2FNr9hQurXN8GzrXL&_nc_ohc=cnVAm1BYSscQ7kNvwFedTlG&_nc_oc=AdlaBbrR8WDJGM-mUuz2YbExz6ZsOjy1s7M1BFAmZ3P_16EOihJGPKHxeS2FBw3RwRM&_nc_zt=23&_nc_ht=scontent.faae1-1.fna&_nc_gid=xF_0Gz_1l8WE7cVQZHhj-Q&oh=00_AfFrAcesGPET4IyrZ1gV9t75PdFJ1tsAPj4nuMIqzb0_yg&oe=68077DDD" alt="Logo" class="logo">
+
+  <a class="btn" href="https://wa.me/213696153670" target="_blank">تواصل معنا الآن</a>
+
+  <div class="section">
+    <h2>خدماتنا:</h2>
+    <ul style="list-style: none; padding: 0;">
+      <li>بيع أجهزة الاستقبال الذكية</li>
+      <li>شحن ألعاب (PlayStation, Xbox, Steam)</li>
+      <li>تفعيل التطبيقات</li>
+      <li>بيع مستلزمات الاستقبال (أطباق، أسلاك، ريموتات...)</li>
+    </ul>
+  </div>
+
+  <div class="section social-links">
+    <h2>تابعونا:</h2>
+    <a href="https://www.facebook.com/beinsportsdrean1" target="_blank">فيسبوك: ADEL SAT DREAN</a>
+    <a href="https://www.instagram.com/adelforshop" target="_blank">إنستغرام: ADELFORSHOP</a>
+    <a href="https://www.tiktok.com/@adel3imla9elsat" target="_blank">تيك توك: adel3imla9elsat</a>
+    <a href="https://wa.me/213696153670" target="_blank">واتساب: 0696153670</a>
+  </div>
+
+</body>
+</html>
